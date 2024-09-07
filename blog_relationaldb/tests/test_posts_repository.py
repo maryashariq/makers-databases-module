@@ -1,0 +1,1 @@
+from lib.posts_repository import PostsRepository
